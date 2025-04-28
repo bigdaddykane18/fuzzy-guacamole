@@ -1,0 +1,27 @@
+{
+	"args": {},
+	"data": "",
+	"files": {},
+	"form": {
+		"arr": [
+			"1",
+			"2"
+		],
+		"baz": "xyz",
+		"foo": "bar"
+	},
+	"headers": {
+		"Accept": "*/*",
+		"Accept-Encoding": "gzip, deflate, br",
+		"Accept-Language": "de-DE,de;q=0.9",
+		"Content-Length": "27",
+		"Content-Type": "application/x-www-form-urlencoded",
+		"Cookie": "cookie=monster;",
+		"Host": "httpbin.org",
+		"User-Agent": "apitester.org iOS/7.5(703)",
+		"X-Amzn-Trace-Id": "Root=1-674158bc-66128c4a42d82559370a204a"
+	},
+	"json": null,
+	"origin": "35.87.146.18",
+	"url": "https://httpbin.org/put"
+}
